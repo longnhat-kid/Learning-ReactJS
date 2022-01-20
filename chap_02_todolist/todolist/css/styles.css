@@ -1,0 +1,15 @@
+.badge--larger{
+    font-size: 1.0rem
+}
+
+.bg-green--modified{
+    background-color: rgba(121, 220, 113, 0.77);
+}
+
+
+/* Responsive */
+@media (max-width: 992px){
+    .mb-3--modified{
+        margin-bottom: 1rem;
+    }
+}
